@@ -39,7 +39,7 @@ Since it is your first week of ML, it is okay if you do not proceed to this sect
 
 # data dictionary
 
-# `chips.csv`
+# `semiconductor-chips.csv`
 
 |variable                 |class     |description |
 |:------------------------|:---------|:-----------|

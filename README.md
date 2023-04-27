@@ -35,3 +35,27 @@ You will practice your data cleaning skills on the main data (not the summarized
 
 Since it is your first week of ML, it is okay if you do not proceed to this section, however, if you feel adventureous, you can explore a classification model to predict whether a product is a GPU or a CPU based on the other independent variables. 
 - Compare the perfomance of a Random Forest Classifier with that of a Logistic Regression Model
+
+
+# data dictionary
+
+# `chips.csv`
+
+|variable                 |class     |description |
+|:------------------------|:---------|:-----------|
+|date                     |double    |Date of release    |
+|type                     |character |Type of chip    |
+|foundry                  |character | Creator    |
+|vendor                   |character | Vendor    |
+|process_size_nm_mean     |double    | Process size in nanometer    |
+|process_size_nm_sd       |double    |    Process size in nanometer |
+|tdp_w_mean               |double    | Thermal design profile    |
+|tdp_w_sd                 |double    |Thermal design profile    |
+|die_size_mm_2_mean       |double    | Die size in millimeters^2    |
+|die_size_mm_2_sd         |double    |Die size in millimeters^2    |
+|transistors_million_mean |double    | Transitor count in millions    |
+|transistors_million_sd   |double    |Transitor count in millions    |
+|freq_m_hz_mean           |double    | Frequency (Mhz)    |
+|freq_m_hz_sd             |double    |Frequency (Mhz)    |
+|n                        |integer   | Total number of observations for date, type, foundry, vendor grouping    |
+

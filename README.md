@@ -9,7 +9,9 @@ The data comes from [CHIP Dataset](https://chip-dataset.vercel.app/).
 
 Paper for citation: [Summarizing CPU and GPU Design Trends with Product Data](https://arxiv.org/abs/1911.11313)
 
-Note that the authors prohibit resharing the dataset, we have a simple summary. You can easily download the full dataset at the bottom of: <https://chip-dataset.vercel.app/>
+Note that the authors prohibit resharing the dataset, we have a simple summary. You can easily download the latest full dataset at the bottom of: <https://chip-dataset.vercel.app/>
+
+If the data downloaded from the above website has inconsitencies with what is required to answer the below questions, feel free to use the data provided in this starter folder. 
 
 # your task
 
